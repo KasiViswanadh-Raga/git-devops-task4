@@ -38,7 +38,7 @@ To manage a DevOps project using Git best practices such as branching, pull requ
 ---
 
 ## 🖼 Screenshots
-Check the /screenshots/ folder for proof of all steps.
+Check the /screenshots for proof of all steps.
 
 ---
 
