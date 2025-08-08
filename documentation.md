@@ -44,4 +44,4 @@ Successfully practiced version control using Git:
 ---
 
 ### 📷 Screenshots
-Located in the /screenshots/ directory as proof of each step.
+Located in the /screenshots as proof of each step.
