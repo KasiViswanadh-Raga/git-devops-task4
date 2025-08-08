@@ -46,16 +46,16 @@ All proof screenshots of each step (like Git clone, branch creation, pull reques
 ### 📸 Git Operation Screenshots
 
 #### 🔽 Git Clone
-![Git Clone](Screenshot1/git-clone.png)
+![Git Clone](Screenshot1-git-clone.png)
 
 #### 🌿 Branch Creation
-![Branch Creation](Screenshot2/git-branchcreation.png)
+![Branch Creation](Screenshot2-git-branchcreation.png)
 
 ####  GitHub pull&merge
-![GitHub pull&merge](Screenshot3/git-pull&merge.png)
+![GitHub pull&merge](Screenshot3-git-pull&merge.png)
 
 #### Git tag
-![Git tag](Screenshot4/git-tag.png)
+![Git tag](Screenshot4-git-tag.png)
 
 ---
 
