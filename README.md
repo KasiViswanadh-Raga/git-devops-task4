@@ -40,8 +40,22 @@ To manage a DevOps project using *Git best practices*, including version control
 
 ## 🖼 Screenshots
 
-All proof screenshots of each step (like Git clone, branch creation, pull requests, tag, etc.) are *uploaded directly in the repository* for task verification.  
-Check the *Files section of the repository* to view all image proofs.
+All proof screenshots of each step (like Git clone, branch creation, pull requests, tag, etc.) 
+## 📝 Git & DevOps Task – Git Workflow
+
+### 📸 Git Operation Screenshots
+
+#### 🔽 Git Clone
+![Git Clone](Screenshot1/git-clone.png)
+
+#### 🌿 Branch Creation
+![Branch Creation](Screenshot2/git-branchcreation.png)
+
+####  GitHub pull&merge
+![GitHub pull&merge](Screenshot3/git-pull&merge.png)
+
+#### Git tag
+![Git tag](Screenshot4/git-tag.png)
 
 ---
 
