@@ -24,7 +24,7 @@
 7. Merged both PRs.
 8. Created a tag: v1.0
 9. Added README.md and this documentation.md
-10. Stored all screenshots in /screenshots/ folder.
+10. Stored all screenshots.
 
 ---
 
